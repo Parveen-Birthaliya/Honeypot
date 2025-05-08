@@ -27,13 +27,13 @@ Go to **Kibana > Discover**, select the `logstash-*` index pattern, and use Luce
 #### 📌 Sample Queries:
 ```kql
 # Find all brute-force SSH attempts
-event.module: "cowrie" AND event.action: "login.failed"
+type: cowrie and eventid: cowrie.login.failed
 
 # Filter Dionaea malware download attempts
-event.module: "dionaea" AND event.type: "connection"
+type: dionaea and connection.type: accept
 
 # Search for sessions from a specific IP
-source.ip: "185.209.0.35"
+src_ip:41.138.161.118
 
 # Filter activity based on honeypot name
-host.name: "cowrie" OR host.name: "dionaea"
+type: "cowrie" OR type: "dionaea"
