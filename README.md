@@ -12,9 +12,9 @@
 
 - [Requirements](#requirements)
 - [Step 1: Cloud Provisioning (Vultr)](#step-1-cloud-provisioning-vultr)
-- [Step 2: Installing T-Pot Honeypot](#step-2-installing-t-pot-honeypot)
-- [Step 3: Accessing Kibana Dashboard](#step-4-accessing-kibana-dashboard)
-- [Step 4: Log Analysis & Attack Insights](#step-5-log-analysis--attack-insights)
+- [Step 2: Installing T-Pot Honeypot](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/Installing%20T-Pot%20Honeypot.md)
+- [Step 3: Accessing Kibana Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/Accessing%20Kibana%20Dashboard.md)
+- [Step 4: Log Analysis & Attack Insights](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/Log%20Analysis%20%26%20Attack%20Insights.md)
 - [Step 5: Hardening & Monitoring](#step-6-hardening--monitoring)
 - [Learning Outcomes](#learning-outcomes)
 - [References](#references)
