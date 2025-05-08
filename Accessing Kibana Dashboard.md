@@ -29,11 +29,11 @@ https://<your-server-ip>:64297
 ```
 - **Provide you web username and password in the popup**
 
-- **Now You Have Access to Tpot Dashboard:Dashboard View**
+- **Now You Have Access to Tpot Dashboard**
 
    ![Tpot Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/TpotDashboard.png)
   
-- **Click on the Kibana** : 
+- **Click on the Kibana:Dashboard View** : 
 
   ![Kibana Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/DashBoard.png)
 
