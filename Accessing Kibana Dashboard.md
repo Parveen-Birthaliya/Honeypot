@@ -29,7 +29,7 @@ https://<your-server-ip>:64297
 ```
 - **Provide you web username and password in the popup**
 
-- **Now You Have Access to Tpot Dashboard**
+- **Now You Have Access to Tpot Dashboard:Dashboard View**
 
    ![Tpot Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/TpotDashboard.png)
   
