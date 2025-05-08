@@ -28,4 +28,12 @@ Open the following URL in your web browser:
 https://<your-server-ip>:64297
 ```
 - **Provide you web username and password in the popup**
-- **Click on the Kibana** : Now you have access to kibana
+
+- **Now You Have Access to Tpot Dashboard**
+
+   ![Tpot Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/TpotDashboard.png)
+  
+- **Click on the Kibana** : 
+
+  ![Kibana Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/DashBoard.png)
+
