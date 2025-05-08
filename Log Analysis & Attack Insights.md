@@ -37,3 +37,20 @@ src_ip:41.138.161.118
 
 # Filter activity based on honeypot name
 type: "cowrie" OR type: "dionaea"
+```
+### 4.3 Kibana Dashboard Analysis
+![Kibana Dashboard](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/DashBoard.png)
+
+#### 4.3.1 Attack Distribution
+![Attack Distribution](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/AttackDist.png)
+**Bar Chart**
+![Bar Chart](https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/AttackDistBarchart.png)
+
+### 4.3.2 Attack by Country and Port
+
+
+
+<p align="center">
+  <img src="https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/PieChartCountryPort.png" width="60%" />
+  <img src="https://github.com/Parveen-Birthaliya/Honeypot/blob/main/images/AttackByCountry.png" width="35%" />
+</p>
